@@ -1,0 +1,50 @@
+[
+	{
+		"key": "otaID",
+		"type": "text",
+		"value": "tripAdvisor",
+		"enabled": true
+	},
+	{
+		"key": "interfaceID",
+		"value": "TAv7",
+		"type": "text",
+		"enabled": true
+	},
+	{
+		"key": "messageTemplateID",
+		"value": "TA_Rate",
+		"type": "text",
+		"enabled": true
+	},
+	{
+		"key": "capture_contentType",
+		"type": "text",
+		"value": "application/json; charset=utf-8",
+		"enabled": true
+	},
+	{
+		"key": "interfaceID_Location",
+		"type": "text",
+		"value": "http://qa.otaconfig.inrd.io/api/v1/ota/tripAdvisor/interface/TAv7",
+		"enabled": true
+	},
+	{
+		"key": "messageTemplateId_Location",
+		"type": "text",
+		"value": "null",
+		"enabled": true
+	},
+	{
+		"key": "otaID_Location",
+		"type": "text",
+		"value": "http://qa.otaconfig.inrd.io/api/v1/ota/tripAdvisor",
+		"enabled": true
+	},
+	{
+		"key": "push",
+		"value": "push",
+		"type": "text",
+		"enabled": true
+	}
+]
